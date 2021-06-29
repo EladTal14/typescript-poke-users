@@ -1,0 +1,19 @@
+{
+  "computers": [
+    {
+      "id": 1,
+      "title": "h1b2",
+      "price": 80
+    },
+    {
+      "id": 2,
+      "title": "c3n5",
+      "price": 800
+    },
+    {
+      "title": "h6j7",
+      "price": 60,
+      "id": 3
+    }
+  ]
+}

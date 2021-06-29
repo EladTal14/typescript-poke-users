@@ -1,0 +1,89 @@
+{
+  "computers": [
+    {
+      "title": "h1b2d",
+      "price": 800,
+      "id": 1
+    },
+    {
+      "title": "c3n5",
+      "price": 8001,
+      "id": 2
+    },
+    {
+      "title": "h6j71",
+      "price": 60002,
+      "id": 3
+    },
+    {
+      "title": "aea12",
+      "price": 1234,
+      "id": 4
+    },
+    {
+      "title": "ramis",
+      "price": 1231,
+      "id": 5
+    },
+    {
+      "title": "aaaa",
+      "price": 123,
+      "id": 6
+    },
+    {
+      "title": "asas",
+      "price": 12,
+      "id": 7
+    },
+    {
+      "title": "wewe",
+      "price": 34,
+      "id": 8
+    },
+    {
+      "title": "alal123",
+      "price": 90,
+      "id": 9
+    },
+    {
+      "title": "asas",
+      "price": 124,
+      "id": 10
+    },
+    {
+      "title": "xxx",
+      "price": 12,
+      "id": 11
+    },
+    {
+      "title": "awe",
+      "price": 34,
+      "id": 12
+    },
+    {
+      "title": "zxc",
+      "price": 124,
+      "id": 13
+    },
+    {
+      "title": "zxczxc",
+      "price": 234,
+      "id": 14
+    },
+    {
+      "title": "bvgc",
+      "price": 453,
+      "id": 15
+    },
+    {
+      "title": "fgt",
+      "price": 567,
+      "id": 16
+    },
+    {
+      "title": "asa",
+      "price": 23,
+      "id": 17
+    }
+  ]
+}
