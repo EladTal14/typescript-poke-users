@@ -31,7 +31,6 @@ export const AddEditComputer: React.VFC = () => {
             formIsValid = true;
         }
         const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-            console.log(e.target.value)
             if (e.target.type === 'number') {
                 setPrice(+e.target.value);
             }

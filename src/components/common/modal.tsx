@@ -19,7 +19,6 @@ export const Modal: React.FC = () => {
         }
     }
     const handleUserAnswer = (e: React.MouseEvent<HTMLButtonElement>) => {
-        console.log(e.currentTarget.value)
         if (+e.currentTarget.value) {
             onRemoveHandler()
         }
